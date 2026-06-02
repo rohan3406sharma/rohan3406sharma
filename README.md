@@ -44,7 +44,7 @@ AI-powered maternal and infant care guidance platform.
 
 - IEEE Conference Publication
 - Patent Application Filed – NeuroVision
-- Runner-Up at BackForge 2026
+- 2nd place at BackForge 2026
 
 ## 📫 Connect With Me
 
